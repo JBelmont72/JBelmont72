@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JBelmont72
 - 👀 I’m interested in learnig
 - 🌱 I’m currently learning OpenCV, RPI, and  micropython
-- 💞️ I’m not looking to collaborate on anythin yet. Just starting this journey.
+- 💞️ I’m not looking to collaborate on anything yet. Just starting this journey.
 - 📫 How to reach me ...
 - 😄 Pronouns: Your Excellancy
 - ⚡ Fun fact: ...
